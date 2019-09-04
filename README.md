@@ -8,7 +8,8 @@
 | Old Version 5.0 cant be used Now |
 | Email | arcparagon@gmail.com |
 
-#How To Install This Script ?
+# How To Install This Script ?
+
 |  |  |
 |--|--|
 | $ pkg update && pkg upgrade |
@@ -19,5 +20,5 @@
 | $ cd bounty-spammer |
 | $ python callmas.py |
 
-#Copyright From Kang-Newbie
-#this script was Re-Code By ArcParagon
+# Copyright From Kang-Newbie
+# this script was Re-Code By ArcParagon
